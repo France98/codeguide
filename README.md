@@ -25,6 +25,8 @@ You can make your code more clear by change variable name like this:
 	}
 
 ```
+Exercise: https://github.com/France98/codeguide/blob/master/src/codeguide/Exercise1.java
+
 Reference: http://www.cs.utah.edu/~germain/PPS/Topics/variables.html
 
 2.Don't repeat yourself
@@ -66,5 +68,6 @@ Use it like this:
 
 
 ```
+Exercise: https://github.com/France98/codeguide/blob/master/src/codeguide/Exercise2.java
 
-Reference: http://www.thejavageek.com/2015/04/10/dont-repeat-yourself-principle/
+Reference: https://programmingenthusiast.wordpress.com/2015/05/08/object-oriented-design-principle-dont-repeat-yourself-dry/
